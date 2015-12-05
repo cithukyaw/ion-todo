@@ -1,0 +1,32 @@
+{
+    "bitwise": true,
+    "boss": true,
+    "camelcase": true,
+    "curly": true,
+    "devel": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "forin": true,
+    "iterator": false,
+    "latedef": true,
+    "multistr": false,
+    "nocomma": true,
+    "noarg": true,
+    "noempty": true,
+    "nonbsp": true,
+    "nonew": true,
+    "quotmark": "single",
+    "sub": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "$": true,
+        "angular": true,
+        "cordova": true,
+        "document": true,
+        "jQuery": true,
+        "StatusBar": true,
+        "window": true
+    }
+}
